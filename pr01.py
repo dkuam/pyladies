@@ -1,0 +1,1 @@
+print("Idzcie spac")
